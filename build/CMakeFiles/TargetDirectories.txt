@@ -1,0 +1,7 @@
+/Users/ElvisJu/Desktop/ffmpeg_downloader/build/CMakeFiles/ffmpeg_downloader.dir
+/Users/ElvisJu/Desktop/ffmpeg_downloader/build/CMakeFiles/edit_cache.dir
+/Users/ElvisJu/Desktop/ffmpeg_downloader/build/CMakeFiles/rebuild_cache.dir
+/Users/ElvisJu/Desktop/ffmpeg_downloader/build/CMakeFiles/list_install_components.dir
+/Users/ElvisJu/Desktop/ffmpeg_downloader/build/CMakeFiles/install.dir
+/Users/ElvisJu/Desktop/ffmpeg_downloader/build/CMakeFiles/install/local.dir
+/Users/ElvisJu/Desktop/ffmpeg_downloader/build/CMakeFiles/install/strip.dir
